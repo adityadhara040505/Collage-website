@@ -1,0 +1,45 @@
+.division1{
+	background-color : darkblue;
+	color : yellow;
+	text-align : center;
+}
+.division2{
+	background-color : yellow;
+	color : green; : 
+}
+.division3{
+	background-color : white;
+	color : brown;
+	
+}
+.division4{
+	background-color : pink;
+	color : red;
+}
+.img1{
+	height : 400;
+}
+ol
+{
+	list-style:none;
+}
+li
+{
+	float:left;
+	padding : 15px;
+	font-size : 20px;
+}
+blink{
+	color : green;
+	transition : 0.5s;
+	font-width : bold;
+}
+.background_of_home{
+	background-image : url("http://gpsolapur.ac.in/wp-content/uploads/2019/12/Main-Building.jpg");
+	background-repeat : no-repeat;
+}
+.definitionlist{
+	float:left;
+	padding : 15px;
+	font-size : 20px;
+}
